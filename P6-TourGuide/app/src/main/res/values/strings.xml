@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Delhi Tour Guide</string>
+    <string name="category_places">Places</string>
+    <string name="category_food">Food</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_museums">Museums</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="choudhary96.sagar.p4_musical_structure">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MusicLibrary"
+            android:label="Music Library" />
+        <activity
+            android:name=".SongDetails"
+            android:label="Song Details"
+            android:parentActivityName=".MusicLibrary"/>
+        <activity
+            android:name=".NowPlaying"
+            android:label="Now Playing"
+            android:parentActivityName=".SongDetails"/>
+        <activity
+            android:name=".PaymentInfo"
+            android:label="Payment Info"
+            android:parentActivityName=".SongDetails"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">"Musical-Structure "</string>
+
+    <string name="welcomeScreen">This Screen will be the welcome screen for the user. there will be a button welcome,
+            click here to continue and clicking on it will take the user to our music app</string>
+
+    <string name="music_library">This screen will be showing all the music obtained from the web using Api like spotify.
+        More information about spotify sdk can be seen here at:- https://github.com/spotify/android-sdk/releases . We can use listview as well as grid view to 
+        display the song list. There will be diffent categories like free songs, paid songs, radio broadcast etc. and clicking on any of the song
+        will take them to a new activity displaying the song details.</string>
+
+    <string name="song_details">This screen will show all the song related info like song name, artist name , paid or free , duration
+        etc all the song related info and on click on song name will play the song online by directing them to the now playing activity or they can select
+        to buy the song for offline downloads.</string>
+
+    <string name="nowPlaying">This screen will show all the music controls and song name. etc as shown in the image below. we Will
+        be using onClickListener on the buttons for music control. We will be using handlers for uptaing the seek bar as the song runs.</string>
+
+    <string name="paymentInfo">This page will contain the payment info. The user will be able to make in-app song purchases by using Developers Api.
+        More Info about the api can be found at :- https://developer.android.com/google/play/developer-api.html</string>
+</resources>

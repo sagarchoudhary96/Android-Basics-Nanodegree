@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Small Business</string>
+    <string name="name">Phulwari\nthe veg restaurant</string>
+    <string name="description"> It is a  Veg. Restaurant. </string>
+    <string name="address">
+        A-14-15, Alwar Byepass Road,\nOpp. Ashiana Baghicha, Bhagat Singh Colony,\nU.I.T., Bhiwadi, Rajasthan 301019
+    </string>
+    <string name="phone">+91-88753 31111  </string>
+    <string name="timings">8:00 AM to 10:30 PM</string>
+</resources>

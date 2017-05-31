@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Search</string>
+    <string name="error">No Internet Connection! Please Connect to Internet and Try again.</string>
+
+    <string name="error_no_params">Error: No query parameters</string>
+    <string name="error_bad_url">Error: Invalid URL</string>
+    <string name="error_no_connection">Error: No Internet Connection</string>
+    <string name="error_no_result">"Error: No Results"</string>
+</resources>

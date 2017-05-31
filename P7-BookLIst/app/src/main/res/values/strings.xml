@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Search</string>
+    <string name="error_no_query">please enter the Book name or Category to search for the books.</string>
+    <string name="error_no_params">Error: No query parameters</string>
+    <string name="error_bad_url">Error: Invalid URL</string>
+    <string name="error_no_connection">Error: No Internet Connection, Please Connect to the internet and try Again.</string>
+    <string name="error_no_result">"Error: Sorry No Results Found."</string>
+
+    <string name="search_hint">Enter Book Info</string>
+    <string name="search">Search!</string>
+
+
+    <string name="heading_parsed_results">Books Found:</string>
+
+    <string name="error">Enter the book category to search for the books.</string>
+
+    <string name="unknown">Unknown</string>
+</resources>
